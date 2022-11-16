@@ -36,7 +36,7 @@ class SuperadminSeeder extends Seeder
         $new_data = [
             'name'                  => 'emad',
             'email'                 => 'emad@ivas.com.eg',
-            'password'              => 123,
+            'password'              => 123456789,
             'email_verified_at'     => now(),
             'remember_token'        => Str::random(10),
             'image'                 => $this->uploadApiImage($images[1]['src']['medium'], 'users')

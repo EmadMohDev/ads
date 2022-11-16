@@ -1,6 +1,6 @@
 ## Make clone to project
 ```
-git clone https://EmadMohDev/MahmoudKon/ads.git
+git clone https://EmadMohDev/ads.git
 ```
 
 ## Go inside the project
@@ -35,6 +35,8 @@ php artisan serve
 <p>This is demo to make post CRUD on the backend and their Apis</p>
 <p>there is postman collection on this folder  Api Collection please import the postman collection and it's global variables  
 </p>
+
+<p>You can login with :   emad@ivas.com.eg   and  password:  123456789</p>
 
 
 ✔Technologies : PHP8 & Laravel9 & Unit Testing
